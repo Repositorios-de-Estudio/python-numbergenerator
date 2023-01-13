@@ -10,6 +10,7 @@ Escribe una función para calcular el número de ms necesarios para escribir con
 
 ### Entrada: 
 `"0123456789"
+
 "210"`
 
 ### Salida:
@@ -19,6 +20,7 @@ Escribe una función para calcular el número de ms necesarios para escribir con
 
 ### Entrada:
 `"8459761203"
+
 "5439"`
 
 ### Salida:
