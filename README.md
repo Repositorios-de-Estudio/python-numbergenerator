@@ -9,9 +9,10 @@ Escribe una función para calcular el número de ms necesarios para escribir con
 ## Ejemplo 1:
 
 ### Entrada: 
-`"0123456789"
-
-"210"`
+```
+"0123456789"
+"210"
+```
 
 ### Salida:
 `4`
@@ -19,9 +20,10 @@ Escribe una función para calcular el número de ms necesarios para escribir con
 ## Ejemplo 2:
 
 ### Entrada:
-`"8459761203"
-
-"5439"`
+```
+"8459761203"
+"5439"
+```
 
 ### Salida:
 `17`
