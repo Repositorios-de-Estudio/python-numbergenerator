@@ -28,6 +28,6 @@ Escribe una función para calcular el número de ms necesarios para escribir con
 
 La estrategia es llegar a calcular la distancia entre los valores de num con respecto a digits. 
 
-`distancia = con ABS(indiceA - indiceB)`
+`distancia = ABS(indiceA - indiceB)`
 
 * indiceA es el indice que se va desplazando por num en busqueda del valor num[indice], indiceB es el indice que corresponde al valor num[indice] en la cadena digitis.
